@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910481751249",
+    "project_id": "locallens-a1fac",
+    "storage_bucket": "locallens-a1fac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910481751249:android:00df715eaaefada59659f0",
+        "android_client_info": {
+          "package_name": "com.example.locallens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQXHCerZJ0nPDyzAVJPSGwkbwr4vclVvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
